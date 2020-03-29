@@ -1,5 +1,7 @@
 # kursach
 
+https://app.simuldocs.com/document/bh2kattq88800/task/bh4704xsr8800
+
 ## Литература
 
 ### Внутренняя и внешняя мотивация
