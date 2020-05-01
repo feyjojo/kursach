@@ -1,6 +1,13 @@
 # kursach
+## Общая информация
 
-https://app.simuldocs.com/document/bh2kattq88800/task/bh4704xsr8800
+|||
+|--|--|
+| Список заданий | https://app.simuldocs.com/document/bh2kattq88800/task/bh4704xsr8800 |
+| Список преподавателей ВШССН | https://docs.google.com/spreadsheets/d/1-oK7Le0JCMq50OD4wga22OVnd55dlm5wWYNFUZqDyDc/edit#gid=132754069 |
+|Список преподавателей Философского факультета | https://docs.google.com/spreadsheets/d/1vgTfOx_69_TsLIeTKzIBMQNRQnFDvJlsqBXGCGpv4VQ/edit#gid=0
+
+
 
 ## Литература
 
@@ -99,3 +106,6 @@ https://www.google.com/search?client=firefox-b-d&q=%D0%B2%D0%BD%D1%83%D1%82%D1%8
 [Senecal C., et al, 2001] 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0ODUzNDkyODVdfQ==
+-->
