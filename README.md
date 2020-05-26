@@ -16,6 +16,14 @@
 |стабильно лучшие| [https://forms.gle/UDtCyQi4EV11RAh29](https://forms.gle/UDtCyQi4EV11RAh29)
  |случайно лучшие | [https://forms.gle/TUFFdiiknGGePEZx7](https://forms.gle/TUFFdiiknGGePEZx7)
    | никогда не становились таковыми | [https://forms.gle/hekZZwVryzaRZuV38](https://forms.gle/hekZZwVryzaRZuV38)||
+### Текст письма
+Доброе утро! 
+
+Мы проводим исследование роли внутренней и внешней мотивации 
+
+связей между некоторыми аспектами мотивации преподавателей (преобладание внутренней/внешней мотивации), показателями, используемыми  и их эмоционального состояния.
+
+Пожалуйста, пройдите опрос:
 
 
 ## Литература
@@ -116,5 +124,5 @@ https://www.google.com/search?client=firefox-b-d&q=%D0%B2%D0%BD%D1%83%D1%82%D1%8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNTAxNTczXX0=
+eyJoaXN0b3J5IjpbMTMwMjQ1MTU0LDkwMTUwMTU3M119
 -->
